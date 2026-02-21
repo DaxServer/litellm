@@ -9,5 +9,5 @@ redis
 anthropic
 orjson
 pydantic
-google-cloud-aiplatform==1.43.0
+google-cloud-aiplatform==1.133.0
 redisvl==0.0.7 # semantic caching
